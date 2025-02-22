@@ -1,0 +1,1 @@
+.\bin\ElectricFieldVis.exe %*

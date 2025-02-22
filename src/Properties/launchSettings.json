@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ElectricFieldVis": {
+      "commandName": "Project",
+      "commandLineArgs": "1 -g50x50"
+    }
+  }
+}

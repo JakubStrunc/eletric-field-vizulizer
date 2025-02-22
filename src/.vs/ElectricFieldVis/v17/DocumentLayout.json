@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\drawingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:drawingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\datacharged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:datacharged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\probe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:probe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\upg semestralka\\src\\shuntingyard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AB8B7A-019A-463D-81C9-E56C6241AA4D}|ElectricFieldVis.csproj|solutionrelative:shuntingyard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Graph.cs",
+              "RelativeToolTip": "Graph.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAlwJUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:52:03.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Probe.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Probe.cs",
+              "RelativeDocumentMoniker": "Probe.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Probe.cs",
+              "RelativeToolTip": "Probe.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:59:40.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:26:47.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShuntingYard.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\ShuntingYard.cs",
+              "RelativeDocumentMoniker": "ShuntingYard.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\ShuntingYard.cs",
+              "RelativeToolTip": "ShuntingYard.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:26:45.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sideMenu.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\sideMenu.cs",
+              "RelativeDocumentMoniker": "sideMenu.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\sideMenu.cs",
+              "RelativeToolTip": "sideMenu.cs",
+              "ViewState": "AQIAAAoCAAAAAAAAAAAkwDYCAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:26:44.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spline.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Spline.cs",
+              "RelativeDocumentMoniker": "Spline.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Spline.cs",
+              "RelativeToolTip": "Spline.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAtwCEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:26:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Charge.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Charge.cs",
+              "RelativeDocumentMoniker": "Charge.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Charge.cs",
+              "RelativeToolTip": "Charge.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:18:17.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawingPanel.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\DrawingPanel.cs",
+              "RelativeDocumentMoniker": "DrawingPanel.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\DrawingPanel.cs",
+              "RelativeToolTip": "DrawingPanel.cs",
+              "ViewState": "AQIAABcEAAAAAAAAAADgvxwEAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:08:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Arrow.cs",
+              "RelativeDocumentMoniker": "Arrow.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\Arrow.cs",
+              "RelativeToolTip": "Arrow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:11:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataCharged.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\DataCharged.cs",
+              "RelativeDocumentMoniker": "DataCharged.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\upg semestralka\\src\\DataCharged.cs",
+              "RelativeToolTip": "DataCharged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:01:04.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
