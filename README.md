@@ -25,7 +25,6 @@ Run.cmd       # Launches the application
 ```
 No extra setup is needed—just double-click `Build.cmd`, then `Run.cmd`.
 
-### Running the Simulation
 You can run a scenario with an optional grid step using:
 ```sh
 Run <scenarioID> -g<X>x<Y>
@@ -44,7 +43,26 @@ Where `<scenarioID>` is a number (0–4), and `<X>`, `<Y>` are optional grid res
   - **Scenario 1**: Two charges +1C at (-1, 0) and +1C at (1, 0)
   - **Scenario 2**: Two charges -1C at (-1, 0) and +2C at (1, 0)
   - **Scenario 3**: Four charges: +1C at (-1, -1), +2C at (1, -1), -3C at (1,1), and -4C at (-1,1)
-  - **Load Scenarios**: Select JSON files defining custom charge configurations.
+  - **Load Scenarios**: Select JSON files defining custom charge configurations. The JSON format supports both constant and time-dependent charges, enabling the simulation of dynamic field changes.
+```json
+[
+  {
+    "Q": "sin ( t )",
+    "PositionX": -1,
+    "PositionY": 0
+  },
+  {
+    "Q": "-1",
+    "PositionX": 1,
+    "PositionY": 0
+  }
+]
+```
+Each charge in the scenario is defined by the following parameters:
+- **Q**: The charge magnitude, which can be either a constant or a time-dependent expression. If the charge varies over time, the expression should be formatted correctly with spaces, such as `"1 * cos ( t )"` instead of `"1*cos(t)"`.
+- **PositionX**: The X-coordinate of the charge in the two-dimensional simulation space.
+- **PositionY**: The Y-coordinate of the charge in the two-dimensional simulation space.
+
 
 - **Simulation Speed**: Adjust speed settings
 
@@ -56,16 +74,17 @@ Where `<scenarioID>` is a number (0–4), and `<X>`, `<Y>` are optional grid res
   - **Isocontours**: Display contour lines representing equal intensity regions.
 
 - **Objects**:
-  - adding other objets to 0,0 such as positive charge, negative charge or probe
+  - adding other objects to 0,0 such as positive charge, negative charge or probe
 
 - **Show Graph**:
   - Enable graphing of electric field intensity over time for multiple probes.
+  - To add probe to the graph. Double-click on the probe, and check the `Enable Graph`
 
 - **Path**:
   - Assign a movement trajectory to charges using Bézier splines.
   - Ensure paths are valid (invalid paths appear red).
 
-### Simulation Controls
+### Other Simulation Controls
 - **Add Probes**: Shift + Click anywhere in the simulation to add a static probe.
 - **Move Charges/Probes**: Click and drag charges or probes to reposition them.
 - **Edit Objects**: Double-click on a charge or probe to open the modification window.
